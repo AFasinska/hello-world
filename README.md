@@ -1,4 +1,7 @@
 # hello-world
 to jest git testowy
 
-delete
+IWANOOOO
+IWANOOOO
+IWANOOOO
+IWANOOOO
