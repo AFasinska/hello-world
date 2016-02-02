@@ -1,4 +1,6 @@
 # hello-world
 to jest git testowy
 
-delete
+Hi, Humans!
+
+To jest mój git testowy
